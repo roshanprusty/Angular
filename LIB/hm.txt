@@ -1,0 +1,11 @@
+Use the definite assignment assertion ! to tell TypeScript that you will ensure the properties are assigned before they are used:
+export class Course {
+    id!: number;
+    title!: string;
+    price!: number;
+    desc!: string;
+    image!: string;
+    rating!: number;
+    duration!: number;
+    author!: string;
+}

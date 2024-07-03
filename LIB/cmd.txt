@@ -1,0 +1,2 @@
+ng new angulatapp-no-standalone
+YH33AALCBTC6MJ2AVCX7VKGV
